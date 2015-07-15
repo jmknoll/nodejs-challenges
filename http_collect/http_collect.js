@@ -3,6 +3,8 @@
 
 // THE HARD WAY - FROM SCRATCH
 
+/*
+
 var http = require('http');
 
 targetUrl = process.argv[2];
@@ -21,11 +23,22 @@ http.get(targetUrl, function( res ){
 	})
 });
 
+*/
+
 // THE EASY WAY - WITH AN EXTERNAL PACKAGE 
-/*
+
 var http = require('http');
 var concatStream = require('concat-stream');
 
 var targetUrl = process.argv[2];
 
-*/
+http.get(targetUrl, function (res) {
+	res.pipe(concatStream (function (err, data, end) {
+		if (err){
+			return console.error(err)
+		}
+		data = data.toString();
+		console.log(data.length);
+		console.log(data);
+	}))
+})
