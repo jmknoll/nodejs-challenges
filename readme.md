@@ -1,5 +1,5 @@
 <h1>Nodeschool Solutions</h1>
-<p>This repository contains my solutions to the NodeJS exercises from <a href='http://nodeschool.io/'>Nodeschool.io</a>.</p>
+<p>This repository contains my solutions to the NodeJS exercises from <a href='http://nodeschool.io/'>nodeschool.io</a>.</p>
 <p>Solutions are thus far available for the following modules:</p>
 <ul>
 	<li>
