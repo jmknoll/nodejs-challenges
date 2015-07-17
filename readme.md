@@ -13,5 +13,7 @@
 	</li>
 </ul>
 
-<p>For more information on setup and installation, please see the <a href="http://nodeschool.io/">nodeschool.io</a>homepage.</p>
+<p>For more information on setup and installation, please see the <a href="http://nodeschool.io/">nodeschool.io</a> homepage.</p>
+
+<p>Additional information on <a href="https://nodejs.org/">NodeJS</a>, <a href="http://expressjs.com/">ExpressJS</a>, and <a href="https://www.mongodb.org">MongoDB</a>.</p>
 
