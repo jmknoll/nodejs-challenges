@@ -1,6 +1,6 @@
 <h1>Nodeschool Solutions</h1>
-<p>The repository contains my solutions to <a href='http://nodeschool.io/'>Nodeschool.io</a>exercises for learning NodeJS.</p>
-<p>Solutions are thus far avialable for the following modules:</p>
+<p>This repository contains my solutions to the NodeJS exercises from <a href='http://nodeschool.io/'>Nodeschool.io</a>.</p>
+<p>Solutions are thus far available for the following modules:</p>
 <ul>
 	<li>
 		<a href="https://github.com/evanlucas/learnyoumongo">learnyounode</a>
